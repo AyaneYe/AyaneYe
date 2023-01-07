@@ -16,6 +16,6 @@
 ![Java](https://img.shields.io/badge/-Java-F08080?style=flat-square&logo=Java&logoColor=fff)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=fff)
 ## How to Contact this Salty Fish
-[![My Blog](https://img.shields.io/badge/-AyaneYe-6495ED?style=flat-square&logo=Bloglovin&logoColor=fff)](https://drbstore.yuameshi.top)
+[![My Blog](https://img.shields.io/badge/-AyaneYe-6495ED?style=flat-square&logo=Bloglovin&logoColor=fff)](https://ayaneye.top)
 [![E-Mail](https://img.shields.io/badge/-charlottestar@qq.com-7B68EE?style=flat-square&logo=mail.ru&logoColor=white)](mailto:charlottestar@qq.com)
 
