@@ -3,7 +3,6 @@
 # AyaneYe
 ## About Me？
 - ~~24 years old~~,but adaptus
-- ShangHai/~~996~~ office worker
 - A Daydreamer likes to coding
 - Bad Luck Gamer
 
