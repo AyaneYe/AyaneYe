@@ -1,5 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AyaneYe&show_icons=true&count_private=true&icon_color=A8B0DB&title_color=A8B0DB" />
+![](https://github-readme-stats.vercel.app/api?username=AyaneYe&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaneYe&show_icons=true&count_private=true)
 
+
+<!--
 # AyaneYe
 ## About Me？
 - ~~24 years old~~,but adaptus
@@ -17,4 +20,4 @@
 ## How to Contact this Salty Fish
 [![My Blog](https://img.shields.io/badge/-AyaneYe-6495ED?style=flat-square&logo=Bloglovin&logoColor=fff)](https://ayaneye.top)
 [![E-Mail](https://img.shields.io/badge/-charlottestar@qq.com-7B68EE?style=flat-square&logo=mail.ru&logoColor=white)](mailto:charlottestar@qq.com)
-
+-->
